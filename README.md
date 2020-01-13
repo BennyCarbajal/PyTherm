@@ -20,3 +20,8 @@ The output as an administrator should be something similar to:
 While running it as a regular user will output something similar to this:
 ![PyTherm as a regular user](https://alpha.scishift.com/img/pytherm_user.png "PyTherm as a regular user")
 
+
+# Credits
+
+-   Benito Carbajal ([@BennyCarbajal](https://github.com/BennyCarbajal))
+-   Dexter Belmont ([@xedret](https://github.com/xedret/))
