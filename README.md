@@ -1,6 +1,6 @@
 #PyTherm
 
-> Small utility to get hardware temperature with Python 2
+> Small utility to get hardware temperature with Python 3
 
 ##Installation
 **Warning Windows Only!**
