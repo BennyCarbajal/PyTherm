@@ -55,6 +55,6 @@ def main() :
 
 
 if __name__ == "__main__" :
- print 'Hardware Monitor:'
- print main()
+ print('Hardware Monitor:')
+ print(main())
 
